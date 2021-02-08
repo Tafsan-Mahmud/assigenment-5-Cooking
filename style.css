@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(180, 180, 180);
+}
+
+.foody img{
+    border-radius: 10px;
+}
+.foody{
+    border-radius: 10px;
+    padding: 10px;
+    text-align: 10px;
+    padding: 10p center;
+    margin-left: 12px;
+    background-color: rgb(255, 254, 247);
+    color: dimgray;
+    box-shadow: 10px 10px 20px rgb(100, 100, 100);
+
+}
+#mainDiv{
+    justify-content:center;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-gap: 40px;
+    column-gap: 0;
+}
+.food-name{
+color:rgb(104, 104, 104);
+
+}
+#img-size{
+    width: 237px;
+}
+.margin{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+nav img{
+    width: 50px;
+    position: relative;
+    right: 40px;
+}
+.right{
+    position: relative;
+    right: 50px ;
+}
+.bg-colour{
+    background-color: rgb(255, 75, 144);
+}
+
+#popup img{
+    width: 100%;
+    border-radius: 20px;
+}
